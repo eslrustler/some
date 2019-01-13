@@ -1,5 +1,5 @@
 {
-    "name": "some/sylius-banner-plugin",
+    "name": "somesadas/sylius-banner-plugin",
     "type": "sylius-plugin",
     "description": "This plugin add banners to your Sylius project",
     "license": "MIT",
